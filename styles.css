@@ -6,12 +6,13 @@ h1{
     
 }
 
-h2{
-    color:darkviolet
-}
+
 
 h4{
-    color:rgb(2, 80, 110);
-    text-decoration: underline black;
+    color:darkviolet;
 }
 
+a{
+    color:cadetblue;
+    font-weight:bolder;
+}
