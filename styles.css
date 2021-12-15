@@ -2,11 +2,8 @@ h1{
     color:rgb(56, 2, 105);
     font-size: 30px;
     font-weight: bolder;
-    text-decoration: underline black;
-    
+    text-decoration: underline black;   
 }
-
-
 
 h4{
     color:darkviolet;
@@ -15,4 +12,5 @@ h4{
 a{
     color:cadetblue;
     font-weight:bolder;
+    font-style:italic;
 }
